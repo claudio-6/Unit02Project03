@@ -49,7 +49,6 @@ Harpe Gaming * 785 Chester Avenue * Morgantown, WV 26502
 
 TOWERS AND TEMPLES PAGE
 =======================
-
 Review of Towers and Temples
 
 Game ID:	bg210
@@ -57,7 +56,8 @@ List Price:	$17.73
 Media	Board: Game
 Release Date:	October 21, 2017
 Age:	10+
-Players:	2 - 8
+Players:	2
+ - 8
 Time:	30 - 60 minutes
 
 
